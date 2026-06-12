@@ -35,7 +35,6 @@ public class Calculator {
 
         Calculator calculator = new Calculator();
 
-        System.out.println("Build Triggered from GitHub");
 
         System.out.println("Addition: " + calculator.add(10, 20));
 
