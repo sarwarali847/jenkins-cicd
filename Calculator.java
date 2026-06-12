@@ -35,7 +35,7 @@ public class Calculator {
 
         Calculator calculator = new Calculator();
 
-
+        System.out.println("test");
         System.out.println("Addition: " + calculator.add(10, 20));
 
         System.out.println("Subtraction: " + calculator.sub(15, 5));
